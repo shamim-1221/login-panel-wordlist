@@ -39,6 +39,28 @@
 /create-account
 /admin/setup
 
+/pages/admin/admin-login.php
+/panel-admin/
+/panel-admin/admin.html
+/panel-admin/admin.php
+/panel-admin/index.html
+/panel-admin/index.php
+/panel-admin/login.html
+/panel-admin/login.php
+/admin/login.php
+/siteadmin/index.php
+/siteadmin/login.html
+/siteadmin/login.php
+/webadmin/
+/webadmin/admin.html
+/webadmin/admin.php
+/webadmin.html
+/webadmin/index.html
+/webadmin/index.php
+/webadmin/login.html
+/webadmin/login.php
+/webadmin.php
+/wp-login.php
 
 
 
